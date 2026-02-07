@@ -8,7 +8,7 @@ This Documentation provides a step by step process to install Sophos Firewall on
 
 Think of it as a **guard at your digital gates** that actively watches, analyzes, and responds to network traffic to stop intrusions, malware, ransomware, and other attacks before they can do harm
 
-# FEATURS OF SOPHOS FW.
+# FEATURES OF SOPHOS FW.
 
 **Sophos Firewall — Core Features (Next‑Gen NGFW)**
 
